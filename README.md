@@ -110,7 +110,8 @@ Backend CI      Frontend CI
             ▼
        Production
 
-**🏗️ System Architecture**
+
+**##🏗️ System Architecture**
                          ┌─────────────────┐
                          │      User       │
                          └────────┬────────┘
@@ -164,6 +165,7 @@ Backend CI      Frontend CI
                               │                                 │
                               ▼                                 ▼
                        Backend Service                    Frontend Site
+
 
 **🛠️ Technology Stack**
 Frontend
