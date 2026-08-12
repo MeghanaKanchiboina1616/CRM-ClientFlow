@@ -10,6 +10,9 @@ node_modules/
 # Build output
 dist/
 build/
+server/.env
+client/.env
+
 
 # Logs
 *.log
